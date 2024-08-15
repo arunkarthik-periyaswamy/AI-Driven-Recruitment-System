@@ -1,5 +1,9 @@
 # AI-Driven Recruitment System
 
+<div style="text-align: center;">
+  <img src="https://epe.brightspotcdn.com/c4/fc/d41779074e15b3d8a634c61c8c29/ai-interview-animated.gif" alt="AI Interview Animation">
+</div>
+
 ## Revolutionizing Talent Acquisition with AI
 
 As a Gen AI developer and data scientist, I led the development of an innovative end-to-end AI-based recruitment platform that transforms the hiring process. This cutting-edge system leverages the advanced capabilities of GPT (Generative Pre-trained Transformer) [a type of transformer-based language model] to streamline the recruitment lifecycle, ensuring efficient and effective talent acquisition.
