@@ -41,6 +41,6 @@ As a Gen AI developer and data scientist, I led the development of an innovative
 - **Programming Languages**: Python, JavaScript, SQL
 - **Frameworks**: React, Flask, Django, LangChain
 - **Libraries**: TensorFlow, PyTorch, scikit-learn
-- **Databases**: PostgreSQL, MySQL, MongoDB
+- **Databases**: PostgreSQL
 - **Operating Systems**: Windows, Linux, macOS
-- **Cloud Platforms**: AWS, Google Cloud, Microsoft Azure
+- **Cloud Platforms**: AWS
